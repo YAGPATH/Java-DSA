@@ -9,6 +9,7 @@ public class swapingTwoNumbers {
     int temp;
     temp = a;
     a = b;
+    b=a-temp;
 
     System.out.println("a = " + a);
     System.out.println("b = " + b);
