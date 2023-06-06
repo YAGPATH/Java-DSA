@@ -5,7 +5,7 @@ public class checkEven {
             System.out.println(a + " is even");
         } 
         else {
-            System.out.println(a + " is not even");
+            System.out.println(a + " is not even"); //
         }
     }
 }
